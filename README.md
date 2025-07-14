@@ -27,9 +27,9 @@ project_root/
 ├── data/
 │ ├── HR/ # 고해상도 원본 이미지 (예: 0001.png)
 │ └── LR/ # 비교용 저해상도 이미지 (예: 0001x2.png)
-├── interpolation_method/ # 각 보간법 구현 파일
-├── metric/ # PSNR, 시간 평가 함수
-├── asset/ # 시각화 결과 이미지
+├── interpolation_method/ 
+├── metric/ 
+├── asset/ 
 └── main.py # 실행 스크립트
 ```
 
