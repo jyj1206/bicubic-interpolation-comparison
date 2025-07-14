@@ -1,4 +1,4 @@
-# Bicubic 보간 기법 비교
+# Bicubic Interpolation 기법 비교
 
 이 저장소는 **DIV2K 고해상도 이미지**를 python 프레임워크와 matlab에서 **Bicubic interpolation 방식**으로 축소(downsampling)하고,  각 기법의 **실행 속도** 및 **PSNR** 을 비교하였습니다.
 
