@@ -39,6 +39,8 @@ project_root/
 ## 결과 예시
 ![result](asset/image.png)
 
+대부분의 Python 기반 라이브러리는 서로 유사한 PSNR 값을 보였으며, MATLAB의 `imresize(..., 'bicubic')` 방식은 DIV2K 등 주요 Super Resolution 논문에서 사용하는 표준 보간 방식으로, 실제 저해상도 이미지 생성 시 가장 많이 사용되는 기준 방식임을 알 수 있었다.
+
 ---
 
 ##  참고 사항
